@@ -1,11 +1,11 @@
 {
-    "name": "beyondcode/dusk-dashboard",
+    "name": "devnickramage/dusk-dashboard",
     "description": "A beautiful dashboard for your Laravel Dusk tests",
     "keywords": [
         "beyondcode",
         "dusk-dashboard"
     ],
-    "homepage": "https://github.com/beyondcode/dusk-dashboard",
+    "homepage": "https://github.com/devnickramage/dusk-dashboard",
     "license": "MIT",
     "authors": [
         {
